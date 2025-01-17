@@ -1,14 +1,14 @@
 ##favorite list##
-**- favorite foods:**
+- **favorite foods:**
     + sweet and sour chicken
     + pizza
-**- favorite songs:**
+- **favorite songs:**
     + songs from YOASOBI
     + anime songs
-**- favorite people:**
+- **favorite people:**
 	+ my family
 	+ my friend
-**- favorite hobby:**
+- **favorite hobby:**
 	+ drawing
 	+ watching anime and manga
 	+ reading
