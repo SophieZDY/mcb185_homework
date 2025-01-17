@@ -1,4 +1,4 @@
-##favorite list##
+## favorite list ##
 - **favorite foods:**
     + sweet and sour chicken
     + pizza
