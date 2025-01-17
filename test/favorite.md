@@ -1,11 +1,14 @@
-<h1>favorite list</h1>
-<ol>
-  <li>favorite foods:<ul>
-    <li>sweet and sour chicken</li>
-    <li>pizza</li>
-  </ul></li>
-  <li>favorite songs:
-    <li>songs from YOASOBI</li>
-    <li>anime songs</li>
-  </ul></li>
-</ol>
+##favorite list##
+**- favorite foods:**
+    + sweet and sour chicken
+    + pizza
+**- favorite songs:**
+    + songs from YOASOBI
+    + anime songs
+**- favorite people:**
+	+ my family
+	+ my friend
+**- favorite hobby:**
+	+ drawing
+	+ watching anime and manga
+	+ reading
