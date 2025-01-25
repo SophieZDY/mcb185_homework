@@ -37,6 +37,10 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ I met Orlando on Thursday
 	+ Total 3 points
 - Week 3
+	+ Attended class Tuesday
+	+ Attended class Thursday
+	+ Finished practice question about Shannon entropy with Orlando, and with help from Dr. Korf
+	+ Total 3 points
 - Week 4
 - Week 5
 - Week 6
