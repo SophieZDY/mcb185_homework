@@ -65,3 +65,6 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class Thursday
 	+ Total 2 points
 - Week 10
+	+ Attended class Tuesday
+	+ Total 1 point
+- Total points: 20 points
